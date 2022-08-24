@@ -66,6 +66,9 @@ p {
 .nav-link {
   font-size: 1.2rem;
   font-family: "Montserrat-light";
+  position: relative;
+  left: 400px;
+
 }
 /* Download Buttons */
 
@@ -751,6 +754,16 @@ left: 880px;
 
 .membershipjpcard{
   height: 400px;
+
   position: relative;
   left: 400px;
-text-align: center;}
+}
+
+.cheerup {
+  position: relative;
+  left: 450px;
+}
+
+.cheeruptesto {
+  text-align: center;
+}
