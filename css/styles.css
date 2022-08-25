@@ -746,6 +746,105 @@ left: 880px;
   bottom: 20px;
   left: 1020px;
 }
+
+/* midnightguest */
+.midnightguestlogo{
+  position: relative;
+  right: -900px;
+height: 400px;}
+
+
+.midnightguest {
+  position: relative;
+  left: 90px;
+  display: flex;
+  justify-content: space-between;
+  padding: 40px;
+  width: 60%;
+  top: 30px;
+  bottom: 600px;
+
+
+}
+
+.h1midnightguest {
+  position: relative;
+bottom: 50px;
+left: 1000px;
+  font-size: 1.5rem;
+}
+
+.h4midnightguest {
+  position: relative;
+  left: 1010px;
+  bottom: 50px;
+  font-size: 1.5rem;
+}
+
+.rilasciamylittesociety {
+  position: relative;
+
+  top: 60px;
+  right: 130px;
+
+}
+
+.canzonimidnightguest{
+  position: relative;
+
+
+  bottom: 20px;
+  left: 1020px;
+}
+/* fromourmemento*/
+.fromourmementoboxlogo{
+  position: relative;
+  right: -570px;
+height: 400px;}
+
+
+.fromourmementobox {
+  position: relative;
+  left: 90px;
+  display: flex;
+  justify-content: space-between;
+  padding: 40px;
+  width: 60%;
+  top: 30px;
+  bottom: 600px;
+
+
+}
+
+.h1fromourmementobox {
+  position: relative;
+bottom: 250px;
+left: 950px;
+  font-size: 1.5rem;
+}
+
+.h4fromourmementobox {
+  position: relative;
+  left: 830px;
+  bottom: 130px;
+  font-size: 1.5rem;
+}
+
+.rilasciamylittesociety {
+  position: relative;
+
+  top: 60px;
+  right: 130px;
+
+}
+
+.canzonifromourmementobox{
+  position: relative;
+
+
+  bottom: 20px;
+  left: 1020px;
+}
 /* news */
 .membershipjpgroup {
   width: 75%;
