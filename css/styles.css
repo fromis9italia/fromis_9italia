@@ -846,6 +846,11 @@ left: 950px;
   left: 1020px;
 }
 /* news */
+#news {
+  position: relative;
+  left: 50.0rem;
+  text-align: center;
+}
 .membershipjpgroup {
   width: 75%;
   position: relative;
@@ -874,4 +879,23 @@ left: 950px;
 
 .fromlove{
   width: 80%;
+
+}
+
+.kcon {
+  width: 80%;
+  position: relative;
+  left: 5rem;
+}
+/*footer*/
+#footer {
+  background-color: #ff4c68;
+  color: #fff;
+font-size: 1.8rem;
+text-align: center;
+}
+
+.contatto {
+  font-family: "Montserrat-black";
+  font-size: 3.5rem;
 }
